@@ -156,9 +156,7 @@ SERVER_URL = "ws://127.0.0.1:8000/ws/mrz-scanner"
 - Hold passport steady with MRZ clearly visible
 - Check that MRZ lines are horizontal and in focus
 
-## License
 
-[Specify your license here]
 
 ## Credits
 
