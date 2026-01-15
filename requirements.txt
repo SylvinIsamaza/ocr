@@ -1,0 +1,5 @@
+fastmrz
+opencv-python
+fastapi
+uvicorn[standard]
+websockets
